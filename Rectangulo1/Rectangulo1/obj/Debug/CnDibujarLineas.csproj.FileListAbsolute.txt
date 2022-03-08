@@ -1,0 +1,11 @@
+C:\Users\Pedro Lara\source\repos\Rectangulo1\Rectangulo1\bin\Debug\Rectangulo1.exe.config
+C:\Users\Pedro Lara\source\repos\Rectangulo1\Rectangulo1\bin\Debug\Rectangulo1.exe
+C:\Users\Pedro Lara\source\repos\Rectangulo1\Rectangulo1\bin\Debug\Rectangulo1.pdb
+C:\Users\Pedro Lara\source\repos\Rectangulo1\Rectangulo1\obj\Debug\CnDibujarLineas.csproj.AssemblyReference.cache
+C:\Users\Pedro Lara\source\repos\Rectangulo1\Rectangulo1\obj\Debug\CnDibujarLineas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pedro Lara\source\repos\Rectangulo1\Rectangulo1\obj\Debug\Rectangulo1.Form1.resources
+C:\Users\Pedro Lara\source\repos\Rectangulo1\Rectangulo1\obj\Debug\Rectangulo1.Properties.Resources.resources
+C:\Users\Pedro Lara\source\repos\Rectangulo1\Rectangulo1\obj\Debug\CnDibujarLineas.csproj.GenerateResource.cache
+C:\Users\Pedro Lara\source\repos\Rectangulo1\Rectangulo1\obj\Debug\CnDibujarLineas.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Lara\source\repos\Rectangulo1\Rectangulo1\obj\Debug\Rectangulo1.exe
+C:\Users\Pedro Lara\source\repos\Rectangulo1\Rectangulo1\obj\Debug\Rectangulo1.pdb
